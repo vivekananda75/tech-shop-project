@@ -1,0 +1,351 @@
+body{
+    background-color: rgb(43, 42, 42);
+  /* position: absolute; */  
+}
+/* nav-bar */
+.navbar-brand{
+  font-size: 25px;
+  margin-left: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: orange;
+}
+.icons{
+    margin-left: 30px;
+    
+}
+.four{
+ 
+  margin-top: -20px;
+ color: red;
+ position: relative;
+}
+.login{
+  margin-right: 40px;
+}
+.navbar{
+    background-color: rgba(46, 46, 46, 0);
+}
+/* nav bar end */
+.mainim{
+  height: 400px;
+  width: 400px;
+  margin-left: 700px ;
+  margin-top: -350px;
+ 
+ 
+}
+.text-cont{
+  color: white;
+  margin-left: 300px;
+}
+.spcl{
+  margin-left: 30px;
+}
+
+.slide-cont{
+    font-size: x-large;
+    margin-top: 0px;
+    margin-left: -850px;
+    font-size: 40px;
+    color: white;
+    list-style: none;
+}
+.bol{
+  font-weight: bolder;
+}
+
+.brand{
+    list-style: none;
+    margin-top: 150px;
+    font-size: 20px;
+}
+.amoun{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.amount{
+text-decoration: line-through;
+margin-left: 15px;
+color: white;
+font-weight: bolder;
+}
+.amo{
+    list-style: none;
+    margin-left: 100px; 
+}
+/* main iamge */
+.boat{ 
+    margin-left: 700px;
+    margin-top: 60px;
+}
+  .button1{
+    /* border-radius: 10px; */
+    height: 30px;
+    font-size: 15px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+  border: none;
+  font-style:initial;
+  }
+  .ank{
+    font-size: 15px;
+    width: 10px;
+  }
+ .price{
+  font-weight: bolder;
+ }
+ .discount{
+  font-weight: bolder;
+  text-decoration: line-through;
+  color: rgb(164, 154, 154);
+ }
+  
+.Products:hover{
+transform: scale(1.1);
+}
+.Product-container{
+  display: flex;
+  gap: 90px;
+  margin-left: 20px;
+  animation-name: products;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+}
+@keyframes products {
+  0%{
+    transform: translateX(10px);
+  }
+  30%{
+    transform: translateX(20px);
+  }
+  50%{
+    transform: translateX(40px);
+  }
+  60%{
+    transform: translateX(50px);
+  }
+  75%{
+    transform: translateX(30px);
+  }
+ 100%{
+    transform: translateX(10px);
+  }
+}
+.text-container{
+  
+  color: white;
+  
+}
+.text{
+  display: flex;
+  gap: 150px;
+  margin-left: 130px;
+}
+.para:hover{
+  background-color: rgb(255, 0, 0);
+}
+.but{
+  border:none ;
+  background-color: rgba(21, 20, 20, 0);
+  color: white;
+}
+.but:hover{
+  background-color: red;
+  border-radius: 10px;
+  width: 100px;
+} 
+@media (max-width:426px) {
+  .slide-cont{
+    margin-right: 700px;
+    font-size: small; 
+  }
+
+    .ico{
+      margin-right: 600px;
+    }
+    /* .Product-container{
+      
+    } */
+     .img1{
+      height: 50px;
+      width: 50px;
+
+     }
+     .products{
+      padding: 0px;
+      font-size: 0px;
+     }
+     .head1{
+      margin-right: 600px;
+     }
+     .head2{
+      margin-right: 600px;
+     }
+    .text{
+     gap: 0px;
+    
+
+     
+    }
+    .but{
+    padding: 20px;
+    font-size: 15px;
+    margin-left: -35px;
+      
+    }
+
+    }
+
+    .container{
+      margin-left: 50px;
+    }
+.cartprice{
+  font-weight: bolder;
+  font-size: 20px;
+}
+.cartdiscount{
+  text-decoration: line-through;
+  margin-left: 10px;
+  color: rgb(102, 102, 102);
+}
+.star{
+  color: red;
+  margin-left: 20px;
+}
+ .card-img-1{
+  height: 200px;
+  width: 200px;
+  margin-left: 30px;
+  margin-top: 3px;
+ }
+ .last-card{
+  margin-top: 200px;
+  color: white;
+  font-size: x-large;
+ }
+ .btn{
+  background-color: red;
+ }
+
+ .container{
+  color: white;
+}
+.img{
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.font{
+  margin-left: 10px;
+  font-size: 20px;
+}
+.min{
+  color: grey;
+  margin-top: 20px;
+  margin-left:-145px;
+  font-size: 14px;
+}
+.min1{
+  color: grey;
+  margin-top: 20px;
+  margin-left: -125px;
+}
+.email{
+  background-color: black;
+  border: 1px solid rgb(161, 157, 157);
+  border-radius: 2px;
+  width: 278px;
+  height: 35px;
+}
+.footbutton{
+  margin-top: 10px;
+  background-color: red;
+  border-radius: 3px;
+  border: none;
+  color: white;
+  font-style: initial;
+  width: 100px;
+  height: 33px;
+}
+.head-11{
+  margin-left: 130px;
+  font-weight: bolder;
+  color: white;
+  margin-top: 25px;
+  font-size: 23px;
+ 
+  
+}
+.list-1{
+  margin-left:95px;
+  list-style: none;
+  margin-top: - 50px;
+  color: rgb(149, 148, 148);
+
+}
+.li{
+  padding: 4px;
+  
+}
+.cont-1{
+  margin-left: 20px;
+}
+.ficons{
+  height: 15px;
+  width: 15px;
+  margin-left: 20px;
+}
+.icon-container{
+  margin-left: 700px;
+}
+.bi-person-circle{
+  margin-left: 250px;
+  margin-top: -44px;
+}
+.two-icons{
+  margin-left: 110px;
+}
+
+.bi-cart2{
+  margin-right: 0px;
+}
+.bi-search{
+  margin-right: 0px;
+}
+/* login box */
+.logbutton{
+ background-color: rgb(136, 136, 136);
+ border: none;
+ border-radius: 5px;
+ color: #ffffff;
+}
+.diologuebox{
+  position: relative;
+}
+.content-diologuebox{
+  position: absolute;
+  border: 1px solid gray;
+  display: none;
+  top: 20px;
+  right: 20px;
+  background-color: rgba(72, 72, 72, 0.742);
+  width: 300px;
+  border-radius: 3px;
+  padding-top: 20px;
+  z-index: 5;
+  padding-left: 20px;
+
+}
+.diologuebox:hover .content-diologuebox {
+  display: block;
+}
+  /* chatgpt */
+
+
+
+
+
+
+
+  

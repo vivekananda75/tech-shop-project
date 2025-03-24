@@ -1,0 +1,202 @@
+body{
+    background-color: rgb(48, 48, 48);
+}
+/* nav-bar */
+.navbar-brand{
+    font-size: 25px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+  }
+  .icons{
+      margin-left: 30px;
+  }
+  .navbar{
+      background-color: rgba(46, 46, 46, 0);
+  }
+  .four{
+    color: red;
+    margin-top: -20px;
+    margin-right: 10px;
+  }
+  .bi-person-circle{
+    margin-left: 130px;
+    margin-top: -17px;
+  }
+  /* nav bar end */
+
+  .jbl{
+    height: 100px;
+    width: 100px;
+    border: 1px solid #7a7a7a;
+    margin-top: 15px;
+  }
+  .four-images{
+    margin-left:10px ;
+  }
+  .large-image{
+    height: 500px;
+    /* width: 550px; */
+    margin-left: 130px;
+    margin-top: -480px;
+  }
+  .content-container{
+    margin-left: 720px;
+    margin-top: -480px;
+  }
+  .star-2{
+    color: red;
+  }
+  .cartprice{
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .cartdiscount{
+    text-decoration: line-through;
+    margin-left: 10px;
+    color: rgb(102, 102, 102);
+    font-size: 17px;
+  }
+  .stock-button{
+    color: white;
+    background-color: rgb(0, 143, 0);
+    border: none;
+    border-radius: 2px;
+    font-weight: 500;
+    width: 100px;
+    margin-left: 300px;
+    height: 30px;
+    margin-top: -80px;
+    
+  }
+  .span-1{
+    color: rgb(204, 204, 204);
+    border: 2px solid rgb(132, 129, 129);
+    border-radius: 3px;
+    width: 190px;
+  }
+  .span-2{
+    color: rgb(204, 204, 204);
+    border: 2px solid rgb(132, 129, 129);
+    border-radius: 3px;
+    width: 190px;
+    margin-left: 210px;
+    margin-top: -93px;
+  }
+  .addto-cart{
+    border: none;
+    border-radius:2px;
+    background-color:red;
+    color: white;
+    width: 150px;
+    height: 30px;
+  }
+  .button-container{
+    margin-left: 100px;
+  }
+  .buttons{
+    margin-left: 190px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    color: #b9b9b9;
+    font-size: 17px;
+  }
+  .list-1{
+    list-style: none;
+    color: #b9b9b9;
+  }
+  .li-1{
+    margin-top: 15px;
+    margin-left: 10px;
+  }
+  .list-2{
+    list-style: none;
+    color: #fff8f8;
+    margin-top: -200px;
+    font-weight: 600;
+  }
+  .li-2{
+margin-left: 300px;
+margin-top: 15px;
+
+  }
+  .card-img-1{
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 3px;
+   }  
+   .star{
+    color: red;
+    margin-left: 20px;
+  }
+  .container{
+    color: white;
+  }
+  .img{
+    margin-left: 10px;
+    margin-top: 5px;
+  }
+  .font{
+    margin-left: 10px;
+    font-size: 20px;
+  }
+  .min{
+    color: grey;
+    margin-top: 20px;
+    margin-left:-145px;
+    font-size: 14px;
+  }
+  .min1{
+    color: grey;
+    margin-top: 20px;
+    margin-left: -125px;
+  }
+  .email{
+    background-color: black;
+    border: 1px solid rgb(161, 157, 157);
+    border-radius: 2px;
+    width: 278px;
+    height: 35px;
+  }
+  .footbutton{
+    margin-top: 10px;
+    background-color: red;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    font-style: initial;
+    width: 100px;
+    height: 33px;
+  }
+  .head-11{
+    margin-left: 130px;
+    font-weight: bolder;
+    color: white;
+    margin-top: 25px;
+    font-size: 23px;
+   
+    
+  }
+  .list-1{
+    margin-left:95px;
+    list-style: none;
+    margin-top: - 50px;
+    color: rgb(149, 148, 148);
+  
+  }
+  .li{
+    padding: 4px;
+    
+  }
+  .cont-1{
+    margin-left: 20px;
+  }
+  .ficons{
+    height: 15px;
+    width: 15px;
+    margin-left: 20px;
+  }
+  .icon-container{
+    margin-left: 700px;
+  }

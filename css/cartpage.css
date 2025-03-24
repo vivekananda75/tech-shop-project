@@ -1,0 +1,181 @@
+body{
+    background-color: black;
+}
+/* nav-bar */
+.navbar-brand{
+  font-size: 25px;
+  margin-left: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: orange;
+}
+.icons{
+    margin-left: 40px;
+}
+.four{
+ 
+  margin-top: -20px;
+ color: red;
+ position: relative;
+}
+.login{
+  margin-right: 40px;
+}
+.navbar{
+    background-color: rgba(46, 46, 46, 0);
+}
+/* nav bar end */
+.scroll-bar{
+    overflow: auto;
+    background-color: rgba(120, 120, 120, 0.095);
+    height:  600px;
+    width: 50%;
+    margin-left: 15px;
+}
+.card{
+    width: 900px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border: none;
+}
+.cartprice{
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .cartdiscount{
+    text-decoration: line-through;
+    margin-left: 10px;
+    color: rgb(102, 102, 102);
+  }
+  .three-container{
+    width: 100px;
+    color: white;
+    margin-left: 20px;
+    padding: 3px;
+    
+    
+  }
+  .minus{
+    margin-left: -10px;
+    font-size: 40px;
+    margin-top: -23px;
+    font-weight: bolder;
+    
+    
+  }
+  .one{
+    margin-top: -39px;
+    margin-left: 25px;
+    color: red;
+    font-size: 18px;
+    font-weight: bolder
+  
+  }
+  .plus{
+    margin-left: 55px; 
+    margin-top: -32px;
+    font-size: 23px;
+    font-weight: bolder;
+  }
+  .bi-trash3{
+    position: absolute;
+    color: white;
+    margin-left: 330px;
+    margin-top: -140px;
+    font-weight: bolder;
+  }
+  .list-1-container{
+    list-style: none;
+    margin-top: -560px;
+    margin-left: -275px;
+    color: gray;
+  }
+  .li-i{
+    margin-top: 20px;
+  }
+  .list-2-container{
+    
+    list-style: none;
+    margin-top: -560px;
+    margin-left: 260px;
+    align-items: end;
+  }
+  .Free{
+    margin-left: 30px;
+  }
+  .total-price{
+    color: white;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: -400px;
+    margin-left: -450px;
+    color: rgb(191, 52, 52);
+  }
+  .amount{
+   color: white;
+   font-weight: bold; 
+   margin-left: -65px;
+   margin-top: -39px;
+   
+  }
+  .checkout{
+    color: white;
+    background-color: red;
+    border: none;
+    margin-left: -445px;
+    width: 442px;
+    height: 32px;
+    border-radius: 7px;
+  }
+  .checkout:hover{
+    background-color: rgb(175, 67, 67);
+    color: seashell;
+  }
+  /* footer */
+  .email{
+    background-color: black;
+    border: 1px solid rgb(161, 157, 157);
+    border-radius: 2px;
+    width: 278px;
+    height: 35px;
+  }
+  .footbutton{
+    margin-top: 10px;
+    background-color: red;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    font-style: initial;
+    width: 100px;
+    height: 33px;
+  }
+  .head-11{
+    margin-left: 130px;
+    font-weight: bolder;
+    color: white;
+    margin-top: 25px;
+    font-size: 23px;
+   
+    
+  }
+  .list-1{
+    margin-left:95px;
+    list-style: none;
+    margin-top: - 50px;
+    color: rgb(149, 148, 148);
+  
+  }
+  .li{
+    padding: 4px;
+    
+  }
+  .cont-1{
+    margin-left: 20px;
+  }
+  .ficons{
+    height: 15px;
+    width: 15px;
+    margin-left: 20px;
+  }
+  .icon-container{
+    margin-left: 700px;
+  }
