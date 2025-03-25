@@ -200,3 +200,9 @@ margin-top: 15px;
   .icon-container{
     margin-left: 700px;
   }
+.four-images{
+  display: grid;
+}
+hr{
+  color: white;
+}
