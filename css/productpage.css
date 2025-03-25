@@ -212,3 +212,9 @@ hr{
    font-size: 25px;
   font-weight: bolder;
 }
+.rightsreserved{
+  margin-left: 10px;
+   color: white;
+   font-size: 13px;
+   font-family: Arial, Helvetica, sans-serif;
+}
