@@ -384,7 +384,11 @@ font-weight: bolder;
    font-size: 25px;
    font-weight: bolder;
 }
-
+.footer{
+  background-color: black;
+  position: relative;
+  margin: 0; 
+}
 
 
 
