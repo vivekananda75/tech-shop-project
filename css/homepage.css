@@ -340,7 +340,50 @@ transform: scale(1.1);
 .diologuebox:hover .content-diologuebox {
   display: block;
 }
-  /* chatgpt */
+.text-cont{
+display: inline-block
+}
+.descri{
+  font-weight: bolder;
+}
+.comfortallday{
+font-weight: bolder;
+}
+.cartprice{
+  color: white
+}
+.mainim{
+  display: flex;
+}
+.descri{
+  font-weight: bolder;
+}
+.musicA{
+  font-weight: bolder;
+}
+.cartprice{
+  color: white;
+}
+.head1{
+  text-align: center;
+   color: white;
+    font-size: 20px;
+}
+.card{
+  width:16rem;
+  height:28rem;
+   background-color: rgba(107, 103, 103, 0.121);
+   border: 2px solid gray;
+}
+.card-title{
+  color: white;
+}
+.ouradv{
+  color: white;
+   text-align: center;
+   font-size: 25px;
+   font-weight: bolder;
+}
 
 
 

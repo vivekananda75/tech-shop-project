@@ -179,3 +179,8 @@ body{
   .icon-container{
     margin-left: 700px;
   }
+.card{
+  max-width: 540px;
+ 
+   border: none;
+}
